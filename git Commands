@@ -1,0 +1,6 @@
+git clone <url> - Copies Repository to a folder in current directory
+ls - List files in current directory
+touch <filename> - creates file with <filename>
+git add - tells git what files to track for commit
+git commit -m "message" - git saves the state of the files with commit message
+git push - git sends local files to remote server
